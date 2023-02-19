@@ -6,3 +6,7 @@
 4. Don't try to use require while importing 3rd party packages it is not allowed
 5. I've Used P5 js you can use any other frameworks .
 6. The Live Link : https://tenserflow-blazepose-p5-integration-vite-bundle.vercel.app/
+
+#How To Install 
+
+1.Without yarn , other tools , via using simple npm command 
